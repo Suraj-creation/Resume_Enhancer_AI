@@ -1,0 +1,60 @@
+# Core dependencies
+streamlit==1.31.0
+supabase==2.0.3
+python-dotenv==1.0.0
+google-generativeai==0.3.1
+pandas==2.0.3
+plotly==5.15.0
+pdfminer.six==20221105  # For PDF text extraction
+six>=1.16.0  # Explicitly specify six package
+tika==2.6.0  # Apache Tika for advanced document extraction
+
+# Typing and compatibility fixes
+typing-extensions==4.7.1  # Fix for ForwardRef._evaluate recursive_guard issue
+types-requests==2.31.0.2
+types-setuptools==68.0.0.3
+
+# NLP and ML
+PyPDF2==2.12.1
+python-docx==1.0.1
+spacy==3.5.4
+huggingface-hub==0.19.4
+language-tool-python==2.7.1
+google-cloud-language==2.11.1  # Google Cloud Natural Language
+
+# Advanced Text Extraction Packages (added)
+pdfplumber==0.10.3
+pytesseract==0.3.10
+pdf2image==1.16.3
+beautifulsoup4==4.12.2
+textract==1.6.5  # For document text extraction
+
+# Advanced Text Parsing Packages (added)
+transformers==4.35.2
+torch==2.1.0
+nltk==3.8.1
+
+# Rich Text Editing Components
+streamlit-quill==0.0.3  # Quill.js integration for Streamlit (optional)
+streamlit-tinymce==0.0.8  # TinyMCE integration for Streamlit (optional)
+# Note: The main implementation uses HTML components which don't require additional dependencies
+
+# Interactive Highlighting and Annotation
+# Note: mark.js and pdf-annotate.js are loaded via CDN and don't require Python packages
+# These JavaScript libraries enhance text highlighting and PDF annotation capabilities
+
+# PDF processing
+fpdf==1.7.2
+docx2pdf==0.1.8
+pdfjs-dist==2.16.105  # Python wrapper for Mozilla's PDF.js (for PDF rendering)
+
+# Other utilities
+pusher==3.3.2  # Pusher real-time
+pdfcrowd==5.12.1  # PDFCrowd API
+numpy==1.24.3
+matplotlib==3.7.2
+
+# Optional dependencies for enhanced AI features
+# Uncomment to install
+# transformers==4.30.2
+# torch==2.0.1 
