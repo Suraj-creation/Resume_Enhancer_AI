@@ -659,8 +659,6 @@ The system is designed with the following key principles:
 
 🏗️ Resume Enhancer System Architecture
 
-🏗️ Resume Enhancer System Architecture
-
 \+--------------------------+      \+--------------------------+      \+-------------------------+  
 |      User Device         |      |     External Services    |      |   Monitoring/Logging    |  
 |  (Browser / Mobile App)  |      |  (Gemini, OAuth, Email)  |      |   (Prometheus, ELK)     |  
@@ -1262,4 +1260,3 @@ This project is licensed under the MIT License \- see the LICENSE file for detai
 * Google Gemini for AI capabilities  
 * spaCy for NLP functionality  
 * All open-source contributors  
-  
