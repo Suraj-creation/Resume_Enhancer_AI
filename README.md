@@ -155,7 +155,7 @@
 
 Here is a useful video related to the project:
 
-\[\!\[Video Thumbnail\](https://img.youtube.com/vi/2uoh\_mxyrp4/0.jpg)\](https://youtu.be/2uoh\_mxyrp4?si=MA0BU8xZGnE8khRs)
+[![Video Thumbnail](https://img.youtube.com/vi/2uoh_mxyrp4/0.jpg)](https://youtu.be/2uoh_mxyrp4)
 
 ### **🌍 Impact and Vision**
 
