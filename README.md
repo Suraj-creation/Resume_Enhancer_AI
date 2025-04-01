@@ -10,6 +10,7 @@ An AI-powered application that helps you improve your resume, match it to job de
 - **Resume Enhancement**: Get AI-powered suggestions to improve your resume
 - **Resume Templates**: Choose from different templates for your enhanced resume
 
+[![Video Thumbnail](https://img.youtube.com/vi/2uoh_mxyrp4/0.jpg)](https://youtu.be/2uoh_mxyrp4)
 ## Installation
 
 ### Basic Installation
